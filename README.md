@@ -2,7 +2,7 @@
 
 Pokémon Cards is a React project built to learn the fundamentals of API data fetching and state handling.
 
-[![Project Link](https://img.shields.io/badge/Website%20Link-37a779?style=for-the-badge)](https://pokemon.pages.dev/)
+[![Project Link](https://img.shields.io/badge/Website%20Link-37a779?style=for-the-badge)](https://pokimon.pages.dev/)
 
 ### Project Purpose
 This project was built to learn:
